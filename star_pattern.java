@@ -9,7 +9,7 @@ public class star_pattern {
             System.out.println();                  
         }
         System.out.println("\n\n\n\n\n\nNew Pattern");
-           for(int i=1; i<=n; i++){
+           for(int i=0; i<=n; i++){
             for(int j=1; j<=n-i; j++){
                 System.out.print(" ");
             }
